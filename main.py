@@ -165,7 +165,7 @@ image_icon = PhotoImage(file="./img/logo.jpg")
 root.iconphoto(False, image_icon)
 
 # Logo
-logo = PhotoImage(file="./img/logo1.png")
+logo = PhotoImage(file="./img/logo2.png")
 Label(root, image=logo, bg="#7093c4").place(x=10, y=0)
 
 # Title
