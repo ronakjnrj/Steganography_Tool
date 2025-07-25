@@ -17,7 +17,7 @@ This project provides a user-friendly interface and robust algorithms to embed s
 * **Data Protection & Digital Privacy:** Offers a method to protect sensitive information during transmission or storage.
 
 **Getting Started:**
-
+ 
 [Include instructions on how to download, install, and run the tool. This might involve:]
 
 1.  **Clone the repository:**
