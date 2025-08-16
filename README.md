@@ -16,7 +16,7 @@ This project provides a user-friendly interface and robust algorithms to embed s
 * **User-Friendly Interface [If applicable]**: Provides an intuitive way to embed and extract data.
 * **Data Protection & Digital Privacy:** Offers a method to protect sensitive information during transmission or storage.
 
-**Getting Started:**
+**Getting Started:** 
  
 [Include instructions on how to download, install, and run the tool. This might involve:]
 
