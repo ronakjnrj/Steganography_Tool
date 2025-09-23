@@ -13,7 +13,7 @@ This project provides a user-friendly interface and robust algorithms to embed s
 * **Preserves Image Integrity:** Algorithms are designed to minimize visual distortion of the carrier image.
 * **Supports [Mention Supported Image Formats, e.g., PNG, BMP]**: Compatible with common image file formats. 
 * **[Optional: Mention Specific Algorithms Used, e.g., LSB (Least Significant Bit)]**: Employs [Algorithm Name] for embedding and extraction.
-* **User-Friendly Interface [If applicable]**: Provides an intuitive way to embed and extract data.
+* **User-Friendly Interface [If applicable]**: Provides an intuitive way to embed and extract data. 
 * **Data Protection & Digital Privacy:** Offers a method to protect sensitive information during transmission or storage.
 
 **Getting Started:** 
