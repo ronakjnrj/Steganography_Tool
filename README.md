@@ -15,7 +15,7 @@ This project provides a user-friendly interface and robust algorithms to embed s
 * **[Optional: Mention Specific Algorithms Used, e.g., LSB (Least Significant Bit)]**: Employs [Algorithm Name] for embedding and extraction.
 * **User-Friendly Interface [If applicable]**: Provides an intuitive way to embed and extract data. 
 * **Data Protection & Digital Privacy:** Offers a method to protect sensitive information during transmission or storage.
-
+ 
 **Getting Started:** 
  
 [Include instructions on how to download, install, and run the tool. This might involve:]
