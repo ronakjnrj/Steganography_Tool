@@ -2,7 +2,7 @@
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
-**An image steganography tool for secure, covert communication.** 
+**An image steganography tool for secure, covert communication.**
 
 This project provides a user-friendly interface and robust algorithms to embed secret data within digital images. By subtly modifying pixel values, it allows you to conceal sensitive information without causing any noticeable change to the image's visual appearance. This ensures a secure and discreet method for data transmission and enhances digital privacy. 
    
