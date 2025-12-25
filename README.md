@@ -5,7 +5,7 @@
 **An image steganography tool for secure, covert communication.**
 
 This project provides a user-friendly interface and robust algorithms to embed secret data within digital images. By subtly modifying pixel values, it allows you to conceal sensitive information without causing any noticeable change to the image's visual appearance. This ensures a secure and discreet method for data transmission and enhances digital privacy. 
-   
+    
 **Key Features:**
 
 * **Secure Data Embedding:** Utilizes steganographic techniques to hide data effectively within images.
